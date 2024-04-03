@@ -11,9 +11,8 @@
 {
     "brand/logo": {
         "name": "brand/logo",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/brand/logo",
         "config": {
@@ -39,9 +38,8 @@
     },
     "elements/card": {
         "name": "elements/card",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/elements/card",
         "config": {
@@ -68,9 +66,8 @@
     },
     "elements/chip": {
         "name": "elements/chip",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/elements/chip",
         "config": {
@@ -97,9 +94,8 @@
     },
     "elements/zoom-in-card-media": {
         "name": "elements/zoom-in-card-media",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/elements/zoom-in-card-media",
         "config": {
@@ -126,9 +122,8 @@
     },
     "fonts/ciruclar-xx": {
         "name": "fonts/ciruclar-xx",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/fonts/ciruclar-xx",
         "config": {
@@ -154,9 +149,8 @@
     },
     "icons/bit": {
         "name": "icons/bit",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/icons/bit",
         "config": {
@@ -183,9 +177,8 @@
     },
     "icons/github": {
         "name": "icons/github",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/icons/github",
         "config": {
@@ -212,9 +205,8 @@
     },
     "icons/link-icon": {
         "name": "icons/link-icon",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/icons/link-icon",
         "config": {
@@ -241,9 +233,8 @@
     },
     "inputs/button": {
         "name": "inputs/button",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/button",
         "config": {
@@ -270,9 +261,8 @@
     },
     "inputs/icon-text-button": {
         "name": "inputs/icon-text-button",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/icon-text-button",
         "config": {
@@ -299,9 +289,8 @@
     },
     "inputs/text-field": {
         "name": "inputs/text-field",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/text-field",
         "config": {
@@ -328,9 +317,8 @@
     },
     "inputs/toggle-button": {
         "name": "inputs/toggle-button",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/toggle-button",
         "config": {
@@ -357,9 +345,8 @@
     },
     "layouts/margin": {
         "name": "layouts/margin",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/layouts/margin",
         "config": {
@@ -386,9 +373,8 @@
     },
     "navigation/breadcrumb": {
         "name": "navigation/breadcrumb",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/breadcrumb",
         "config": {
@@ -415,9 +401,8 @@
     },
     "navigation/footer": {
         "name": "navigation/footer",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/footer",
         "config": {
@@ -443,9 +428,8 @@
     },
     "navigation/header": {
         "name": "navigation/header",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/header",
         "config": {
@@ -471,9 +455,8 @@
     },
     "navigation/link": {
         "name": "navigation/link",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link",
         "config": {
@@ -500,9 +483,8 @@
     },
     "navigation/link-text": {
         "name": "navigation/link-text",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link-text",
         "config": {
@@ -529,9 +511,8 @@
     },
     "theme/base-theme": {
         "name": "theme/base-theme",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/base-theme",
         "config": {
@@ -558,9 +539,8 @@
     },
     "theme/dark-theme": {
         "name": "theme/dark-theme",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/dark-theme",
         "config": {
@@ -587,9 +567,8 @@
     },
     "theme/light-theme": {
         "name": "theme/light-theme",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/light-theme",
         "config": {
@@ -616,9 +595,8 @@
     },
     "theme/theme-creator": {
         "name": "theme/theme-creator",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-creator",
         "config": {
@@ -645,9 +623,8 @@
     },
     "theme/theme-provider": {
         "name": "theme/theme-provider",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-provider",
         "config": {
@@ -674,9 +651,8 @@
     },
     "theme/theme-toggle": {
         "name": "theme/theme-toggle",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-toggle",
         "config": {
@@ -703,9 +679,8 @@
     },
     "typography/heading": {
         "name": "typography/heading",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/typography/heading",
         "config": {
@@ -732,9 +707,8 @@
     },
     "typography/typography": {
         "name": "typography/typography",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/typography/typography",
         "config": {
@@ -761,9 +735,8 @@
     },
     "widgets/text-icon": {
         "name": "widgets/text-icon",
-        "scope": "",
-        "version": "",
-        "defaultScope": "cohen-codes.design",
+        "scope": "cohen-codes.design",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design/widgets/text-icon",
         "config": {
