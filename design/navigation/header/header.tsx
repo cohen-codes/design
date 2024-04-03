@@ -2,7 +2,11 @@ import React, { ReactNode } from 'react';
 import { AppBar, Container, Box, Toolbar } from '@mui/material';
 import { Typography } from '@cohen-codes/design.typography.typography';
 import { Link } from '@cohen-codes/design.navigation.link';
-import { HeaderLink } from './header.type';
+
+export type HeaderLink = {
+  label: string;
+  url: string;
+};
 
 export type HeaderProps = {
   logo: ReactNode;
