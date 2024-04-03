@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
 import { alpha, Box, BoxProps } from '@mui/material';
-import { Typography } from '@nitsan770/portfolio.typography.typography';
+import { Typography } from '@cohen-codes/design.typography.typography';
 
 export type IconTextButtonProps = {
   icon: ReactNode;

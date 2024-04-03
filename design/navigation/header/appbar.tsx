@@ -1,7 +1,7 @@
 import React from 'react';
-import { Header, HeaderProps } from '@showoff/design.navigation.header';
-import { ThemeToggle } from '@nitsan770/portfolio.theme.theme-toggle';
-import { SettingsConsumer } from '@nitsan770/portfolio.contexts.settings-context';
+import { Header, HeaderProps } from '@cohen-codes/design.navigation.header';
+import { ThemeToggle } from '@cohen-codes/design.theme.theme-toggle';
+import { SettingsConsumer } from '@cohen-codes/design.contexts.settings-context';
 
 export type AppbarProps = {} & HeaderProps;
 

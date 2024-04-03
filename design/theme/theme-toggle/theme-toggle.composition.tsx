@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { lightTheme } from '@nitsan770/portfolio.theme.light-theme';
-import { ThemeProvider } from '@nitsan770/portfolio.theme.theme-provider';
+import { lightTheme } from '@cohen-codes/design.theme.light-theme';
+import { ThemeProvider } from '@cohen-codes/design.theme.theme-provider';
 import { ThemeToggle } from './theme-toggle';
 
 export const BasicThemeToggle = () => {

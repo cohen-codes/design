@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography } from '@nitsan770/portfolio.typography.typography';
+import { Typography } from '@cohen-codes/design.typography.typography';
 import { ToggleButton } from './toggle-button';
 
 export const SampleToggleButton = () => {

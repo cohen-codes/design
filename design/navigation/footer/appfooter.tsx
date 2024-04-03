@@ -1,5 +1,5 @@
 import React from 'react';
-import { Footer, FooterProps } from '@showoff/design.navigation.footer';
+import { Footer, FooterProps } from '@cohen-codes/design.navigation.footer';
 
 export type AppfooterProps = {} & FooterProps;
 
