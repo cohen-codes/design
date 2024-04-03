@@ -1,2 +1,2 @@
-export { Appfooter } from './appfooter';
-export type { AppfooterProps } from './appfooter';
+export { Footer } from './footer';
+export type { FooterProps } from './footer';

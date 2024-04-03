@@ -1,2 +1,2 @@
-export { Appbar } from './appbar';
-export type { AppbarProps } from './appbar';
+export { Header } from './header';
+export type { HeaderProps } from './header';

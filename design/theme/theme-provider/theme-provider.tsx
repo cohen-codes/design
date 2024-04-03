@@ -5,7 +5,7 @@ import {
   ThemeOptions,
   ThemeProvider as MuiThemeProvider,
 } from '@mui/material';
-import { lightTheme } from '@nitsan770/portfolio.theme.light-theme';
+import { lightTheme } from '@cohen-codes/design.theme.light-theme';
 
 export type ThemeProviderProps = {
   /**

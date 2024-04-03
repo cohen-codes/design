@@ -1,5 +1,5 @@
 import React, { useMemo, Fragment } from 'react';
-import { Heading } from '@nitsan770/portfolio.typography.heading';
+import { Heading } from '@cohen-codes/design.typography.heading';
 import { TypographyProps, Box, Link } from '@mui/material';
 import { BreadcrumbType } from './breadcrumb.type';
 

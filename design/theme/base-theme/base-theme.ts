@@ -1,5 +1,5 @@
 import { ThemeOptions } from '@mui/material';
-import { getCircularXXFontFace } from '@showoff/design.fonts.ciruclar-xx';
+import { getCircularXXFontFace } from '@cohen-codes/design.fonts.ciruclar-xx';
 
 export function baseTheme(): ThemeOptions {
   return {

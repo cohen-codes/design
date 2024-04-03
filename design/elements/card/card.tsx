@@ -1,11 +1,11 @@
 import React, { useMemo } from 'react';
 import { Card as MUICard, CardContent, CardMedia, Box } from '@mui/material';
 
-import { Chip } from '@nitsan770/portfolio.elements.chip';
-import { Margin, MarginType } from '@nitsan770/portfolio.layouts.margin';
+import { Chip } from '@cohen-codes/design.elements.chip';
+import { Margin, MarginType } from '@cohen-codes/design.layouts.margin';
 
-import { Typography } from '@nitsan770/portfolio.typography.typography';
-import { Heading } from '@nitsan770/portfolio.typography.heading';
+import { Typography } from '@cohen-codes/design.typography.typography';
+import { Heading } from '@cohen-codes/design.typography.heading';
 
 export type CardProps = {
   /**
