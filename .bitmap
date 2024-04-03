@@ -103,7 +103,7 @@
     "navigation/breadcrumb": {
         "name": "navigation/breadcrumb",
         "scope": "cohen-codes.design",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/breadcrumb"
     },
