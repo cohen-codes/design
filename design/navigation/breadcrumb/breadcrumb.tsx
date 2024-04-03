@@ -1,7 +1,11 @@
 import React, { useMemo, Fragment } from 'react';
 import { Heading } from '@cohen-codes/design.typography.heading';
 import { TypographyProps, Box, Link } from '@mui/material';
-import { BreadcrumbType } from './breadcrumb.type';
+
+export type BreadcrumbType = {
+  crumb: string;
+  link?: string;
+};
 
 export type BreadcrumbProps = {
   /**
