@@ -3,8 +3,8 @@ import { Box } from '@mui/material';
 import { Typography } from '@cohen-codes/design.typography.typography';
 
 export type FooterProps = {
-  leftContent: string;
-  rightContent: string;
+  leftContent: React.ReactNode;
+  rightContent: React.ReactNode;
 };
 
 export function Footer({ leftContent, rightContent }: FooterProps) {
