@@ -37,60 +37,6 @@ importers:
       '@mui/material':
         specifier: ^5.11.11
         version: 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.contexts.settings-context':
-        specifier: ^0.0.5
-        version: 0.0.5(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.elements.chip':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.envs.react-18':
-        specifier: ^0.0.2
-        version: 0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
-      '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
-        version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
-      '@nitsan770/portfolio.layouts.margin':
-        specifier: ^0.0.4
-        version: 0.0.4(react@18.2.0)
-      '@nitsan770/portfolio.navigation.link':
-        specifier: ^0.0.5
-        version: 0.0.5(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@nitsan770/portfolio.theme.base-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)
-      '@nitsan770/portfolio.theme.light-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-creator':
-        specifier: ^0.0.1
-        version: 0.0.1(@mui/material@5.15.14)
-      '@nitsan770/portfolio.theme.theme-provider':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-toggle':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.widgets.text-icon':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@showoff/design.fonts.ciruclar-xx':
-        specifier: ^0.0.7
-        version: 0.0.7
-      '@showoff/design.navigation.footer':
-        specifier: ^0.0.47
-        version: 0.0.47(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@showoff/design.navigation.header':
-        specifier: ^0.0.46
-        version: 0.0.46(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@showoff/design.theme.theme-provider':
-        specifier: ^0.0.33
-        version: 0.0.33(@mui/material@5.15.14)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -125,6 +71,12 @@ importers:
         specifier: 1.0.0
         version: 1.0.0
     devDependencies:
+      '@nitsan770/portfolio.envs.react-18':
+        specifier: 0.0.2
+        version: 0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
+      '@nitsan770/portfolio.envs.react-with-mui':
+        specifier: 0.0.6
+        version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
         version: 13.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -187,7 +139,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -231,18 +183,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.elements.chip':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.layouts.margin':
-        specifier: ^0.0.4
-        version: 0.0.4(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -269,7 +209,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -339,7 +279,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -409,7 +349,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -423,6 +363,18 @@ importers:
       '@types/react-dom':
         specifier: ^18.0.0
         version: 18.2.23
+
+  design/fonts/ciruclar-xx:
+    devDependencies:
+      '@babel/runtime':
+        specifier: 7.20.0
+        version: 7.20.0
+      '@types/jest':
+        specifier: 26.0.20
+        version: 26.0.20
+      '@types/node':
+        specifier: 12.20.4
+        version: 12.20.4
 
   design/icons/bit:
     dependencies:
@@ -479,7 +431,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -549,7 +501,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -619,7 +571,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -689,7 +641,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -733,9 +685,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -762,7 +711,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -832,7 +781,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -902,11 +851,8 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
-      '@nitsan770/portfolio.typography.typography':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@testing-library/react':
         specifier: 13.4.0
         version: 13.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -975,7 +921,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1019,9 +965,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1048,7 +991,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1092,9 +1035,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.navigation.footer':
-        specifier: ^0.0.47
-        version: 0.0.47(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1121,14 +1061,8 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
-      '@nitsan770/portfolio.theme.light-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.11.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-provider':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.11.0)(react@18.2.0)
       '@testing-library/react':
         specifier: 13.4.0
         version: 13.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -1171,15 +1105,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.contexts.settings-context':
-        specifier: ^0.0.5
-        version: 0.0.5(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-toggle':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
-      '@showoff/design.navigation.header':
-        specifier: ^0.0.46
-        version: 0.0.46(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1206,7 +1131,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1276,7 +1201,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1320,12 +1245,6 @@ importers:
       '@mui/material':
         specifier: 5.11.0
         version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.navigation.link':
-        specifier: ^0.0.5
-        version: 0.0.5(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@nitsan770/portfolio.widgets.text-icon':
-        specifier: ^0.0.5
-        version: 0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1352,7 +1271,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1384,9 +1303,6 @@ importers:
       '@mui/material':
         specifier: ^5.11.11
         version: 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.fonts.ciruclar-xx':
-        specifier: ^0.0.7
-        version: 0.0.7
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1413,7 +1329,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-18':
-        specifier: ^0.0.2
+        specifier: 0.0.2
         version: 0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1433,12 +1349,6 @@ importers:
       '@mui/material':
         specifier: ^5.11.11
         version: 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.base-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)
-      '@nitsan770/portfolio.theme.theme-creator':
-        specifier: ^0.0.1
-        version: 0.0.1(@mui/material@5.15.14)
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -1446,9 +1356,6 @@ importers:
       '@babel/runtime':
         specifier: 7.20.0
         version: 7.20.0
-      '@showoff/design.theme.theme-provider':
-        specifier: ^0.0.33
-        version: 0.0.33(@mui/material@5.15.14)(react@18.2.0)
       '@types/jest':
         specifier: 26.0.20
         version: 26.0.20
@@ -1464,12 +1371,6 @@ importers:
       '@mui/material':
         specifier: ^5.11.11
         version: 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.base-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)
-      '@nitsan770/portfolio.theme.theme-creator':
-        specifier: ^0.0.1
-        version: 0.0.1(@mui/material@5.15.14)
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -1520,9 +1421,6 @@ importers:
       '@mui/material':
         specifier: ^5.11.11
         version: 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.light-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context':
         specifier: 0.0.496
         version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
@@ -1549,7 +1447,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-18':
-        specifier: ^0.0.2
+        specifier: 0.0.2
         version: 0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1610,14 +1508,8 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-18':
-        specifier: ^0.0.2
+        specifier: 0.0.2
         version: 0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
-      '@nitsan770/portfolio.theme.light-theme':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-provider':
-        specifier: ^0.0.3
-        version: 0.0.3(@mui/material@5.15.14)(react@18.2.0)
       '@testing-library/react':
         specifier: 13.4.0
         version: 13.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -1686,7 +1578,7 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1756,7 +1648,77 @@ importers:
         version: 1.0.0
     devDependencies:
       '@nitsan770/portfolio.envs.react-with-mui':
-        specifier: ^0.0.6
+        specifier: 0.0.6
+        version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
+      '@testing-library/react':
+        specifier: 13.4.0
+        version: 13.4.0(react-dom@18.2.0)(react@18.2.0)
+      '@types/jest':
+        specifier: ^29.2.2
+        version: 29.5.4
+      '@types/react':
+        specifier: ^18.0.0
+        version: 18.2.74
+      '@types/react-dom':
+        specifier: ^18.0.0
+        version: 18.2.23
+
+  design/widgets/text-icon:
+    dependencies:
+      '@apollo/client':
+        specifier: 3.7.7
+        version: 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
+      '@babel/core':
+        specifier: 7.20.12
+        version: 7.20.12
+      '@babel/runtime':
+        specifier: 7.20.13
+        version: 7.20.13
+      '@emotion/react':
+        specifier: 11.10.5
+        version: 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/styled':
+        specifier: 11.10.5
+        version: 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
+      '@mdx-js/react':
+        specifier: 1.6.22
+        version: 1.6.22(react@18.2.0)
+      '@mui/icons-material':
+        specifier: 5.11.0
+        version: 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@mui/lab':
+        specifier: 5.0.0-alpha.117
+        version: 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@mui/material':
+        specifier: 5.11.0
+        version: 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@teambit/mdx.ui.mdx-scope-context':
+        specifier: 0.0.496
+        version: 0.0.496(react-dom@18.2.0)(react@18.2.0)
+      formik:
+        specifier: 2.2.9
+        version: 2.2.9(react@18.2.0)
+      graphql:
+        specifier: 16.6.0
+        version: 16.6.0
+      react:
+        specifier: ^18.0.0
+        version: 18.2.0
+      react-dom:
+        specifier: ^18.0.0
+        version: 18.2.0(react@18.2.0)
+      react-router-dom:
+        specifier: 6.0.2
+        version: 6.0.2(react-dom@18.2.0)(react@18.2.0)
+      subscriptions-transport-ws:
+        specifier: 0.11.0
+        version: 0.11.0(graphql@16.6.0)
+      yup:
+        specifier: 1.0.0
+        version: 1.0.0
+    devDependencies:
+      '@nitsan770/portfolio.envs.react-with-mui':
+        specifier: 0.0.6
         version: 0.0.6(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74)
       '@testing-library/react':
         specifier: 13.4.0
@@ -1787,13 +1749,16 @@ importers:
         version: file:design/brand/logo(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.card':
         specifier: workspace:*
-        version: file:design/elements/card(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/elements/card(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.chip':
         specifier: workspace:*
         version: file:design/elements/chip(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.zoom-in-card-media':
         specifier: workspace:*
         version: file:design/elements/zoom-in-card-media(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.fonts.ciruclar-xx':
+        specifier: workspace:*
+        version: file:design/fonts/ciruclar-xx
       '@cohen-codes/design.icons.bit':
         specifier: workspace:*
         version: file:design/icons/bit(@types/react@18.2.74)(react@18.2.0)
@@ -1808,7 +1773,7 @@ importers:
         version: file:design/inputs/button(@mui/lab@5.0.0-alpha.117)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.icon-text-button':
         specifier: workspace:*
-        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.text-field':
         specifier: workspace:*
         version: file:design/inputs/text-field(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
@@ -1820,19 +1785,19 @@ importers:
         version: file:design/layouts/margin(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.breadcrumb':
         specifier: workspace:*
-        version: file:design/navigation/breadcrumb(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/breadcrumb(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.footer':
         specifier: workspace:*
-        version: file:design/navigation/footer(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/footer(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.header':
         specifier: workspace:*
-        version: file:design/navigation/header(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/header(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link-text':
         specifier: workspace:*
-        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.theme.base-theme':
         specifier: workspace:*
         version: file:design/theme/base-theme(@mui/material@5.15.14)
@@ -1857,6 +1822,9 @@ importers:
       '@cohen-codes/design.typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.widgets.text-icon':
+        specifier: workspace:*
+        version: file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react':
         specifier: 1.6.22
         version: 1.6.22(react@18.2.0)
@@ -1896,6 +1864,8 @@ importers:
         injected: true
       '@cohen-codes/design.elements.zoom-in-card-media':
         injected: true
+      '@cohen-codes/design.fonts.ciruclar-xx':
+        injected: true
       '@cohen-codes/design.icons.bit':
         injected: true
       '@cohen-codes/design.icons.github':
@@ -1938,6 +1908,8 @@ importers:
         injected: true
       '@cohen-codes/design.typography.typography':
         injected: true
+      '@cohen-codes/design.widgets.text-icon':
+        injected: true
 
   node_modules/.bit_roots/nitsan770.portfolio_envs_react-with-mui@0.0.6:
     dependencies:
@@ -1955,13 +1927,16 @@ importers:
         version: file:design/brand/logo(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.card':
         specifier: workspace:*
-        version: file:design/elements/card(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/elements/card(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.chip':
         specifier: workspace:*
         version: file:design/elements/chip(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.zoom-in-card-media':
         specifier: workspace:*
         version: file:design/elements/zoom-in-card-media(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.fonts.ciruclar-xx':
+        specifier: workspace:*
+        version: file:design/fonts/ciruclar-xx
       '@cohen-codes/design.icons.bit':
         specifier: workspace:*
         version: file:design/icons/bit(@types/react@18.2.74)(react@18.2.0)
@@ -1976,7 +1951,7 @@ importers:
         version: file:design/inputs/button(@mui/lab@5.0.0-alpha.117)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.icon-text-button':
         specifier: workspace:*
-        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.text-field':
         specifier: workspace:*
         version: file:design/inputs/text-field(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
@@ -1988,19 +1963,19 @@ importers:
         version: file:design/layouts/margin(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.breadcrumb':
         specifier: workspace:*
-        version: file:design/navigation/breadcrumb(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/breadcrumb(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.footer':
         specifier: workspace:*
-        version: file:design/navigation/footer(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/footer(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.header':
         specifier: workspace:*
-        version: file:design/navigation/header(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/header(@mui/material@5.11.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link-text':
         specifier: workspace:*
-        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.theme.base-theme':
         specifier: workspace:*
         version: file:design/theme/base-theme(@mui/material@5.11.0)
@@ -2025,6 +2000,9 @@ importers:
       '@cohen-codes/design.typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.widgets.text-icon':
+        specifier: workspace:*
+        version: file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react':
         specifier: 11.10.5
         version: 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
@@ -2079,6 +2057,8 @@ importers:
         injected: true
       '@cohen-codes/design.elements.zoom-in-card-media':
         injected: true
+      '@cohen-codes/design.fonts.ciruclar-xx':
+        injected: true
       '@cohen-codes/design.icons.bit':
         injected: true
       '@cohen-codes/design.icons.github':
@@ -2121,6 +2101,8 @@ importers:
         injected: true
       '@cohen-codes/design.typography.typography':
         injected: true
+      '@cohen-codes/design.widgets.text-icon':
+        injected: true
 
   node_modules/.bit_roots/teambit.harmony_node:
     dependencies:
@@ -2129,13 +2111,16 @@ importers:
         version: file:design/brand/logo(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.card':
         specifier: workspace:*
-        version: file:design/elements/card(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/elements/card(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.chip':
         specifier: workspace:*
         version: file:design/elements/chip(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.elements.zoom-in-card-media':
         specifier: workspace:*
         version: file:design/elements/zoom-in-card-media(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.fonts.ciruclar-xx':
+        specifier: workspace:*
+        version: file:design/fonts/ciruclar-xx
       '@cohen-codes/design.icons.bit':
         specifier: workspace:*
         version: file:design/icons/bit(@types/react@18.2.74)(react@18.2.0)
@@ -2150,7 +2135,7 @@ importers:
         version: file:design/inputs/button(@mui/lab@5.0.0-alpha.117)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.icon-text-button':
         specifier: workspace:*
-        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.inputs.text-field':
         specifier: workspace:*
         version: file:design/inputs/text-field(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
@@ -2162,19 +2147,19 @@ importers:
         version: file:design/layouts/margin(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.breadcrumb':
         specifier: workspace:*
-        version: file:design/navigation/breadcrumb(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/breadcrumb(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.footer':
         specifier: workspace:*
-        version: file:design/navigation/footer(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0)
+        version: file:design/navigation/footer(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@cohen-codes/design.navigation.header':
         specifier: workspace:*
-        version: file:design/navigation/header(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/header(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link':
         specifier: workspace:*
         version: file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.navigation.link-text':
         specifier: workspace:*
-        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+        version: file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
       '@cohen-codes/design.theme.base-theme':
         specifier: workspace:*
         version: file:design/theme/base-theme(@mui/material@5.15.14)
@@ -2199,6 +2184,9 @@ importers:
       '@cohen-codes/design.typography.typography':
         specifier: workspace:*
         version: file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.widgets.text-icon':
+        specifier: workspace:*
+        version: file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
     dependenciesMeta:
       '@cohen-codes/design.brand.logo':
         injected: true
@@ -2207,6 +2195,8 @@ importers:
       '@cohen-codes/design.elements.chip':
         injected: true
       '@cohen-codes/design.elements.zoom-in-card-media':
+        injected: true
+      '@cohen-codes/design.fonts.ciruclar-xx':
         injected: true
       '@cohen-codes/design.icons.bit':
         injected: true
@@ -2249,6 +2239,8 @@ importers:
       '@cohen-codes/design.typography.heading':
         injected: true
       '@cohen-codes/design.typography.typography':
+        injected: true
+      '@cohen-codes/design.widgets.text-icon':
         injected: true
 
 packages:
@@ -8239,6 +8231,12 @@ packages:
     dependencies:
       regenerator-runtime: 0.13.11
 
+  /@babel/runtime@7.21.0:
+    resolution: {integrity: sha512-xwII0//EObnq89Ji5AKYQaRYiW/nZ3llSv29d49IuxPhKbtJoLP+9QUUZ4nVragQVtaVGeZrpB+ZtG/Pdy/POw==}
+    engines: {node: '>=6.9.0'}
+    dependencies:
+      regenerator-runtime: 0.13.11
+
   /@babel/runtime@7.24.1:
     resolution: {integrity: sha512-+BIznRzyqBf+2wCTxcKE3wDjfGeCoVE61KSHGpkzqrLi8qxqFwBeUFyId2cxkTmm55fzDGnm0+yCxaxygrLUnQ==}
     engines: {node: '>=6.9.0'}
@@ -8508,7 +8506,7 @@ packages:
         optional: true
     dependencies:
       '@babel/core': 7.20.12
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@emotion/babel-plugin': 11.11.0
       '@emotion/cache': 11.11.0
       '@emotion/serialize': 1.1.4
@@ -8545,7 +8543,7 @@ packages:
         optional: true
     dependencies:
       '@babel/core': 7.20.12
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@emotion/babel-plugin': 11.11.0
       '@emotion/is-prop-valid': 1.2.2
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
@@ -8624,12 +8622,14 @@ packages:
     resolution: {integrity: sha512-PcF++MykgmTj3CIyOQbKA/hDzOAiqI3mhuoN44WRCopIs1sgoDoU4oty4Jtqaj/y3oDU6fnVSm4QG0a3t5i0+g==}
     dependencies:
       '@floating-ui/utils': 0.2.1
+    dev: false
 
   /@floating-ui/dom@1.6.3:
     resolution: {integrity: sha512-RnDthu3mzPlQ31Ss/BTwQ1zjzIhr3lk1gZB1OC56h/1vEtaXkESrOqL5fQVMfXpwGtRwX+YsZBdyHtJMQnkArw==}
     dependencies:
       '@floating-ui/core': 1.6.0
       '@floating-ui/utils': 0.2.1
+    dev: false
 
   /@floating-ui/react-dom@2.0.8(react-dom@18.2.0)(react@18.2.0):
     resolution: {integrity: sha512-HOdqOt3R3OGeTKidaLvJKcgg75S6tibQ3Tif4eyd91QnIJWr0NLvoXFpJA/j8HqkFSL68GDca9AuyWEHlhyClw==}
@@ -8640,9 +8640,11 @@ packages:
       '@floating-ui/dom': 1.6.3
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
+    dev: false
 
   /@floating-ui/utils@0.2.1:
     resolution: {integrity: sha512-9TANp6GPoMtYzQdt54kfAyMmz1+osLlXdg2ENroU7zzrtflTLrrC/lgrIfaSe+Wu0b89GKccT7vxXA0MoAIO+Q==}
+    dev: false
 
   /@graphql-typed-document-node/core@3.2.0(graphql@16.6.0):
     resolution: {integrity: sha512-mB9oAsNCm9aM3/SOv4YtBMqZbYj10R7dkq8byBqxGY/ncFwhf2oQzMV+LCRlWoDSEBJ3COiR1yeDvMtsoOsuFQ==}
@@ -9068,6 +9070,7 @@ packages:
       prop-types: 15.8.1
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
+    dev: false
 
   /@mui/core-downloads-tracker@5.15.14:
     resolution: {integrity: sha512-on75VMd0XqZfaQW+9pGjSNiqW+ghc5E2ZSLRBXwcXl/C4YzjfyjrLPhrEpKnR9Uym9KXBvxrhoHfPcczYHweyA==}
@@ -9083,7 +9086,7 @@ packages:
       '@types/react':
         optional: true
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@types/react': 18.2.74
       react: 18.2.0
@@ -9099,7 +9102,7 @@ packages:
       '@types/react':
         optional: true
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@types/react': 18.2.74
       react: 18.2.0
@@ -9123,7 +9126,7 @@ packages:
       '@types/react':
         optional: true
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mui/base': 5.0.0-alpha.115(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
@@ -9156,7 +9159,7 @@ packages:
       '@types/react':
         optional: true
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mui/base': 5.0.0-alpha.115(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
@@ -9189,7 +9192,7 @@ packages:
       '@types/react':
         optional: true
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mui/base': 5.0.0-alpha.110(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
@@ -9241,6 +9244,7 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
       react-is: 18.2.0
       react-transition-group: 4.4.5(react-dom@18.2.0)(react@18.2.0)
+    dev: false
 
   /@mui/private-theming@5.15.14(@types/react@18.2.74)(react@18.2.0):
     resolution: {integrity: sha512-UH0EiZckOWcxiXLX3Jbb0K7rC8mxTr9L9l6QhOZxYc4r8FHUkefltV9VDGLrzCaWh30SQiJvAEd7djX3XXY6Xw==}
@@ -9334,41 +9338,6 @@ packages:
       prop-types: 15.8.1
       react: 18.2.0
       react-is: 18.2.0
-
-  /@nitsan770/portfolio.contexts.settings-context@0.0.5(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-+eGUfX6oOkteUjQ8uuNOwWUMQ7/aMIY22sLFn959kH5eQS1EztVcyviZChuzzMtFY3BKfhydsOiCh7txiCw7DQ==}
-    peerDependencies:
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@nitsan770/portfolio.hooks.use-local-storage': 0.0.2
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.elements.chip@0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-GPWzIePknD7b2z+4WCIXnDdS1A8S9IqININcPxnOiZ1HtMMbdNhV7F8OEHllGBJd0Cxf3EZMBZmecRwg2VqOpQ==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.elements.chip@0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-GPWzIePknD7b2z+4WCIXnDdS1A8S9IqININcPxnOiZ1HtMMbdNhV7F8OEHllGBJd0Cxf3EZMBZmecRwg2VqOpQ==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
 
   /@nitsan770/portfolio.envs.react-18@0.0.2(@testing-library/react@13.4.0)(@types/node@16.18.44)(@types/react@18.2.74):
     resolution: {integrity: sha512-mSCMKmKahocC6QAzrjbwlpcpl4CU3Ldbm6ev/UCclP1wDQBK4qzlS83TMyC3uXcaouICmOlRzZsJlcjuQOb1pw==}
@@ -9530,30 +9499,6 @@ packages:
       - webpack-hot-middleware
       - webpack-plugin-serve
 
-  /@nitsan770/portfolio.hooks.use-local-storage@0.0.2:
-    resolution: {integrity: sha512-DH4f9EZpHYq7S3LtfuzzrhuLgYw4HfyJbC4upbiEYMvxzqa+zuJCMsp0ll4szXAPxUdHFUO80rYYfCjb4EyZMg==}
-    dev: false
-
-  /@nitsan770/portfolio.layouts.margin@0.0.4(react@18.2.0):
-    resolution: {integrity: sha512-yQTn2LiXratjwGaeYP1IOlTN2n19L05IIHYcYlb3h625lgMXiBXKHmncg1T4AbMFMQOmea8+e2MLqZP28RQ2dA==}
-    peerDependencies:
-      react: ^18.0.0
-    dependencies:
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.navigation.link@0.0.5(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0):
-    resolution: {integrity: sha512-WEyV7+1nVpJQc1cXm476jKYjdkxBrbLSw+Gf6S0ZodK2BLTGWU4MT88P8A47Em9HlylF02f6BKTvkBoFDxbDwA==}
-    peerDependencies:
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-      react-router-dom: ^6.0.2
-    dependencies:
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
-    dev: false
-
   /@nitsan770/portfolio.theme.base-theme@0.0.3(@mui/material@5.11.0):
     resolution: {integrity: sha512-eFudEcib878I8ibmoBhIraiI/7EqDUXBP4+wkj0Eh3RN3vWfL6GOfZmgqsqKHFGaYfqGwInM3egS79rydeC8SQ==}
     peerDependencies:
@@ -9569,6 +9514,7 @@ packages:
     dependencies:
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@showoff/design.fonts.ciruclar-xx': 0.0.7
+    dev: false
 
   /@nitsan770/portfolio.theme.dark-portfolio-theme@0.0.3(@mui/material@5.11.0)(react@18.2.0):
     resolution: {integrity: sha512-i84c04FEANGj+mRLjU2Qr93InIPvd3uL0sG9oHpvjbWwsgB6twjH1EaUyJvAhC/C99MoJKZ3Un4ULTK9mWompg==}
@@ -9622,6 +9568,7 @@ packages:
       '@nitsan770/portfolio.theme.base-theme': 0.0.3(@mui/material@5.15.14)
       '@nitsan770/portfolio.theme.theme-creator': 0.0.1(@mui/material@5.15.14)
       react: 18.2.0
+    dev: false
 
   /@nitsan770/portfolio.theme.theme-creator@0.0.1(@mui/material@5.11.0):
     resolution: {integrity: sha512-SMOaebuDUP90XrxqHjglv/3GXYqVptc/glf3KeWEctp/1YlTVt/RBMXOd2Y+rGbNoETyO8gm7ENRKNAzKNCW2g==}
@@ -9636,6 +9583,7 @@ packages:
       '@mui/material': ^5.11.11
     dependencies:
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+    dev: false
 
   /@nitsan770/portfolio.theme.theme-provider@0.0.3(@mui/material@5.11.0)(react@18.2.0):
     resolution: {integrity: sha512-4ucnj4V0zKXjn9SjXsYSNMuT14iQpd8lFTrZkMwmaphSORu/gk7LT1gE+m1zhkVXYLv+JK3F1wZSuRIrYEr2PA==}
@@ -9645,16 +9593,6 @@ packages:
     dependencies:
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.light-theme': 0.0.3(@mui/material@5.11.0)(react@18.2.0)
-      react: 18.2.0
-
-  /@nitsan770/portfolio.theme.theme-provider@0.0.3(@mui/material@5.15.14)(react@18.2.0):
-    resolution: {integrity: sha512-4ucnj4V0zKXjn9SjXsYSNMuT14iQpd8lFTrZkMwmaphSORu/gk7LT1gE+m1zhkVXYLv+JK3F1wZSuRIrYEr2PA==}
-    peerDependencies:
-      '@mui/material': ^5.11.11
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.light-theme': 0.0.3(@mui/material@5.15.14)(react@18.2.0)
       react: 18.2.0
 
   /@nitsan770/portfolio.theme.theme-toggle@0.0.3(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
@@ -9668,96 +9606,6 @@ packages:
       react: 18.2.0
     transitivePeerDependencies:
       - '@types/react'
-
-  /@nitsan770/portfolio.theme.theme-toggle@0.0.3(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
-    resolution: {integrity: sha512-xHKxBW1LcjZif0iTpydaVvk8A51LBmAUxU40hV5bhrZvq2oAb3Rt9C6EcaxYe3APIsDR3R2b326Iq6khILsvyw==}
-    peerDependencies:
-      '@mui/material': ^5.11.11
-      react: ^18.0.0
-    dependencies:
-      '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    transitivePeerDependencies:
-      - '@types/react'
-    dev: false
-
-  /@nitsan770/portfolio.typography.heading@0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-Qw5RfdS3qK1OtFCZd2CVckNl/v12IBnfvugIAY9Rp6mMNCFGMbWxHRtOFsOjRO2s/1tKTXVAsPKwNJqKrbNjtg==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.typography.heading@0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-Qw5RfdS3qK1OtFCZd2CVckNl/v12IBnfvugIAY9Rp6mMNCFGMbWxHRtOFsOjRO2s/1tKTXVAsPKwNJqKrbNjtg==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.typography.typography@0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-NIHM6FuHINW80NFFDrlDK4u2CEpEesjNQYEG0oiU3x1/sIDPfBFJynV0ZJzjBw3CXf5or1RS3l+L6L82ajX6eA==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-
-  /@nitsan770/portfolio.typography.typography@0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-NIHM6FuHINW80NFFDrlDK4u2CEpEesjNQYEG0oiU3x1/sIDPfBFJynV0ZJzjBw3CXf5or1RS3l+L6L82ajX6eA==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.widgets.text-icon@0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-GVNpssSI+ECu0HjRibPmmaqPZg9ynem0koni0fmuujgm6NV2jM554N5vFiWbhM7w/efj2pzktuplSRZwpnA54Q==}
-    peerDependencies:
-      '@mui/icons-material': ^5.11.0
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@nitsan770/portfolio.widgets.text-icon@0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-GVNpssSI+ECu0HjRibPmmaqPZg9ynem0koni0fmuujgm6NV2jM554N5vFiWbhM7w/efj2pzktuplSRZwpnA54Q==}
-    peerDependencies:
-      '@mui/icons-material': ^5.11.0
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^12.1.5
-      react: ^18.0.0
-    dependencies:
-      '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
 
   /@nodelib/fs.scandir@2.1.5:
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
@@ -10026,136 +9874,6 @@ packages:
 
   /@showoff/design.fonts.ciruclar-xx@0.0.7:
     resolution: {integrity: sha1-u+nRSzEU/c6eheVzIQd+2i4R7RQ=}
-
-  /@showoff/design.navigation.footer@0.0.47(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-mKLEwKe/QNmxu1+61AqbcwLRvyEw9G0ZAwDsk3kZiGT1a/QcC73tZycoEtlpPYMyKm6Ftx34WX8VjJ2xQHtKoA==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.typography.typography': 0.0.36(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@showoff/design.navigation.footer@0.0.47(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-mKLEwKe/QNmxu1+61AqbcwLRvyEw9G0ZAwDsk3kZiGT1a/QcC73tZycoEtlpPYMyKm6Ftx34WX8VjJ2xQHtKoA==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.typography.typography': 0.0.36(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@showoff/design.navigation.header@0.0.46(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0):
-    resolution: {integrity: sha512-wHHVBvXzXnWFRclRVbLd0aBr7seRo9C4cZ9piV9ybBkDAMv430SiLVKbmT8vGEcNhfftoSuVsWYgFz9+k57rwg==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-      react-router-dom: ^6.0.2
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.navigation.link': 0.0.24(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@showoff/design.typography.typography': 0.0.36(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
-    dev: false
-
-  /@showoff/design.navigation.header@0.0.46(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0):
-    resolution: {integrity: sha512-wHHVBvXzXnWFRclRVbLd0aBr7seRo9C4cZ9piV9ybBkDAMv430SiLVKbmT8vGEcNhfftoSuVsWYgFz9+k57rwg==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-      react-router-dom: ^6.0.2
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.navigation.link': 0.0.24(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@showoff/design.typography.typography': 0.0.36(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
-    dev: false
-
-  /@showoff/design.navigation.link@0.0.24(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0):
-    resolution: {integrity: sha512-TpTiqBl3xuwyNYTh1ss8mWv4NRWSevW3B/3zd9zW3Usl30uCD2bI2nSYD/I0kHV07pkBeVlrOUzez4J1SSc/rg==}
-    peerDependencies:
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-      react-router-dom: ^6.0.2
-    dependencies:
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
-    dev: false
-
-  /@showoff/design.theme.base-theme@0.0.16(@mui/material@5.15.14):
-    resolution: {integrity: sha512-jV4e2ea85Rw+emSX8bA/jih1xhAo10/ucgdBgq/cj+k79ndqBwUSN0rmeVd9Mc8w4eCbxQdXR4JM/PCVRkesJQ==}
-    peerDependencies:
-      '@mui/material': 5.11.11
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.fonts.ciruclar-xx': 0.0.7
-
-  /@showoff/design.theme.light-theme@0.0.30(@mui/material@5.15.14)(react@18.2.0):
-    resolution: {integrity: sha512-xsQ3iu6KdNZghr6WZJy97C81YiW54aN3zhAh+rIBnpo0KmB2qH57n2XM3GJvAqpJkLXxCpYyS7d8+Ukrzm8tlA==}
-    peerDependencies:
-      '@mui/material': '*'
-      react: '*'
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.theme.base-theme': 0.0.16(@mui/material@5.15.14)
-      '@showoff/design.theme.theme-creator': 0.0.10(@mui/material@5.15.14)
-      react: 18.2.0
-
-  /@showoff/design.theme.theme-creator@0.0.10(@mui/material@5.15.14):
-    resolution: {integrity: sha512-35jabHmIHpeo62AYjcCmhpmBkeYsW+ZsZZlxW73ZNVX7LX/3EPDzv03JJS7NqxBYoxIgp4hyU51+RI+9zmtyog==}
-    peerDependencies:
-      '@mui/material': 5.11.11
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-
-  /@showoff/design.theme.theme-provider@0.0.33(@mui/material@5.15.14)(react@18.2.0):
-    resolution: {integrity: sha512-oRt17U212UkNJliDGwIBKLlBu1n4NSgAvcqTb7tL4/i6QWbxFB7E+Uu8vbq3NZOd2AhBlmDp+UxURDTH4O1OPQ==}
-    peerDependencies:
-      '@mui/material': 5.11.11
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.theme.light-theme': 0.0.30(@mui/material@5.15.14)(react@18.2.0)
-      react: 18.2.0
-
-  /@showoff/design.typography.typography@0.0.36(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-/QbL0g6wlvXQ2AYB9qYxD7Ye3hUfaAYy1yzn4iyQi8/sRXr8Hk70AnRcvXFj1XwOIf9g7lYtEOH1zKIw/FfX2g==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
-
-  /@showoff/design.typography.typography@0.0.36(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0):
-    resolution: {integrity: sha512-/QbL0g6wlvXQ2AYB9qYxD7Ye3hUfaAYy1yzn4iyQi8/sRXr8Hk70AnRcvXFj1XwOIf9g7lYtEOH1zKIw/FfX2g==}
-    peerDependencies:
-      '@mui/material': ^5.11.0
-      '@testing-library/react': ^13.4.0
-      react: ^18.0.0
-    dependencies:
-      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@testing-library/react': 13.4.0(react-dom@18.2.0)(react@18.2.0)
-      react: 18.2.0
-    dev: false
 
   /@sinclair/typebox@0.27.8:
     resolution: {integrity: sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==}
@@ -14582,7 +14300,7 @@ packages:
       react: ^18.0.0
       react-dom: ^18.0.0
     dependencies:
-      '@babel/runtime': 7.20.13
+      '@babel/runtime': 7.21.0
       '@testing-library/dom': 8.20.1
       '@types/react-dom': 18.2.23
       react: 18.2.0
@@ -28818,7 +28536,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/elements/card(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/elements/card(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/elements/card, type: directory}
     id: file:design/elements/card
     name: '@cohen-codes/design.elements.card'
@@ -28829,16 +28547,16 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.elements.chip': file:design/elements/chip(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.layouts.margin': file:design/layouts/margin(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.heading': file:design/typography/heading(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.elements.chip': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.layouts.margin': 0.0.4(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -28848,7 +28566,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -28856,7 +28573,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/elements/card(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/elements/card(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/elements/card, type: directory}
     id: file:design/elements/card
     name: '@cohen-codes/design.elements.card'
@@ -28867,16 +28584,16 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.elements.chip': file:design/elements/chip(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.layouts.margin': file:design/layouts/margin(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.heading': file:design/typography/heading(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.elements.chip': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.layouts.margin': 0.0.4(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -28886,7 +28603,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29026,6 +28742,11 @@ packages:
       - utf-8-validate
     dev: false
 
+  file:design/fonts/ciruclar-xx:
+    resolution: {directory: design/fonts/ciruclar-xx, type: directory}
+    name: '@cohen-codes/design.fonts.ciruclar-xx'
+    dev: false
+
   file:design/icons/bit(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/icons/bit, type: directory}
     id: file:design/icons/bit
@@ -29155,7 +28876,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/inputs/icon-text-button, type: directory}
     id: file:design/inputs/icon-text-button
     name: '@cohen-codes/design.inputs.icon-text-button'
@@ -29167,13 +28888,13 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29183,7 +28904,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29191,7 +28911,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/inputs/icon-text-button(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/inputs/icon-text-button, type: directory}
     id: file:design/inputs/icon-text-button
     name: '@cohen-codes/design.inputs.icon-text-button'
@@ -29203,13 +28923,13 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.typography': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29219,7 +28939,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29304,6 +29023,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
@@ -29337,6 +29057,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
@@ -29391,7 +29112,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/breadcrumb(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/navigation/breadcrumb(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/navigation/breadcrumb, type: directory}
     id: file:design/navigation/breadcrumb
     name: '@cohen-codes/design.navigation.breadcrumb'
@@ -29402,13 +29123,13 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.heading': file:design/typography/heading(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading': 0.0.5(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29418,7 +29139,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29426,7 +29146,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/breadcrumb(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/navigation/breadcrumb(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/navigation/breadcrumb, type: directory}
     id: file:design/navigation/breadcrumb
     name: '@cohen-codes/design.navigation.breadcrumb'
@@ -29437,13 +29157,13 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.heading': file:design/typography/heading(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.typography.heading': 0.0.5(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29453,7 +29173,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29461,23 +29180,24 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/footer(@testing-library/react@13.4.0)(@types/react@18.2.74)(react@18.2.0):
+  file:design/navigation/footer(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
     resolution: {directory: design/navigation/footer, type: directory}
     id: file:design/navigation/footer
     name: '@cohen-codes/design.navigation.footer'
     peerDependencies:
+      '@mui/material': ^5.11.0
       react: ^18.0.0
     dependencies:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@showoff/design.navigation.footer': 0.0.47(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29487,7 +29207,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29495,26 +29214,62 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/header(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
+  file:design/navigation/footer(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
+    resolution: {directory: design/navigation/footer, type: directory}
+    id: file:design/navigation/footer
+    name: '@cohen-codes/design.navigation.footer'
+    peerDependencies:
+      '@mui/material': ^5.11.0
+      react: ^18.0.0
+    dependencies:
+      '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
+      '@babel/core': 7.20.12
+      '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
+      '@mdx-js/react': 1.6.22(react@18.2.0)
+      '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
+      formik: 2.2.9(react@18.2.0)
+      graphql: 16.6.0
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
+      subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
+      yup: 1.0.0
+    transitivePeerDependencies:
+      - '@types/react'
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
+    dev: false
+
+  file:design/navigation/header(@mui/material@5.11.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
     resolution: {directory: design/navigation/header, type: directory}
     id: file:design/navigation/header
     name: '@cohen-codes/design.navigation.header'
     peerDependencies:
+      '@mui/material': ^5.11.0
       react: ^18.0.0
       react-router-dom: ^6.0.2
     dependencies:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.brand.logo': file:design/brand/logo(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.navigation.link': file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+      '@cohen-codes/design.theme.theme-toggle': file:design/theme/theme-toggle(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.contexts.settings-context': 0.0.5(@testing-library/react@13.4.0)(react@18.2.0)
-      '@nitsan770/portfolio.theme.theme-toggle': 0.0.3(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
-      '@showoff/design.navigation.header': 0.0.46(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29524,7 +29279,44 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
+      - '@types/react'
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
+    dev: false
+
+  file:design/navigation/header(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
+    resolution: {directory: design/navigation/header, type: directory}
+    id: file:design/navigation/header
+    name: '@cohen-codes/design.navigation.header'
+    peerDependencies:
+      '@mui/material': ^5.11.0
+      react: ^18.0.0
+      react-router-dom: ^6.0.2
+    dependencies:
+      '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
+      '@babel/core': 7.20.12
+      '@babel/runtime': 7.20.13
+      '@cohen-codes/design.brand.logo': file:design/brand/logo(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.navigation.link': file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+      '@cohen-codes/design.theme.theme-toggle': file:design/theme/theme-toggle(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
+      '@mdx-js/react': 1.6.22(react@18.2.0)
+      '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
+      formik: 2.2.9(react@18.2.0)
+      graphql: 16.6.0
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
+      subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
+      yup: 1.0.0
+    transitivePeerDependencies:
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29565,7 +29357,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
+  file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
     resolution: {directory: design/navigation/link-text, type: directory}
     id: file:design/navigation/link-text
     name: '@cohen-codes/design.navigation.link-text'
@@ -29578,14 +29370,14 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.navigation.link': file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+      '@cohen-codes/design.widgets.text-icon': file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.navigation.link': 0.0.5(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@nitsan770/portfolio.widgets.text-icon': 0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29595,7 +29387,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29603,7 +29394,7 @@ packages:
       - utf-8-validate
     dev: false
 
-  file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
+  file:design/navigation/link-text(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0):
     resolution: {directory: design/navigation/link-text, type: directory}
     id: file:design/navigation/link-text
     name: '@cohen-codes/design.navigation.link-text'
@@ -29616,14 +29407,14 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.navigation.link': file:design/navigation/link(@types/react@18.2.74)(react-router-dom@6.0.2)(react@18.2.0)
+      '@cohen-codes/design.widgets.text-icon': file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
-      '@nitsan770/portfolio.navigation.link': 0.0.5(@testing-library/react@13.4.0)(react-router-dom@6.0.2)(react@18.2.0)
-      '@nitsan770/portfolio.widgets.text-icon': 0.0.5(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@testing-library/react@13.4.0)(react@18.2.0)
       '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
       formik: 2.2.9(react@18.2.0)
       graphql: 16.6.0
@@ -29633,7 +29424,6 @@ packages:
       subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
       yup: 1.0.0
     transitivePeerDependencies:
-      - '@testing-library/react'
       - '@types/react'
       - bufferutil
       - graphql-ws
@@ -29651,6 +29441,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.fonts.ciruclar-xx': file:design/fonts/ciruclar-xx
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@showoff/design.fonts.ciruclar-xx': 0.0.7
@@ -29679,6 +29470,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.fonts.ciruclar-xx': file:design/fonts/ciruclar-xx
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@showoff/design.fonts.ciruclar-xx': 0.0.7
@@ -29705,10 +29497,18 @@ packages:
       '@mui/material': ^5.11.11
       react: ^18.2.0
     dependencies:
+      '@cohen-codes/design.theme.base-theme': file:design/theme/base-theme(@mui/material@5.11.0)
+      '@cohen-codes/design.theme.theme-creator': file:design/theme/theme-creator(@mui/material@5.11.0)
+      '@cohen-codes/design.theme.theme-provider': file:design/theme/theme-provider(@mui/material@5.11.0)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.base-theme': 0.0.3(@mui/material@5.11.0)
       '@nitsan770/portfolio.theme.theme-creator': 0.0.1(@mui/material@5.11.0)
       react: 18.2.0
+    transitivePeerDependencies:
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
     dev: false
 
   file:design/theme/dark-theme(@mui/material@5.15.14)(react@18.2.0):
@@ -29719,10 +29519,18 @@ packages:
       '@mui/material': ^5.11.11
       react: ^18.2.0
     dependencies:
+      '@cohen-codes/design.theme.base-theme': file:design/theme/base-theme(@mui/material@5.15.14)
+      '@cohen-codes/design.theme.theme-creator': file:design/theme/theme-creator(@mui/material@5.15.14)
+      '@cohen-codes/design.theme.theme-provider': file:design/theme/theme-provider(@mui/material@5.15.14)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.base-theme': 0.0.3(@mui/material@5.15.14)
       '@nitsan770/portfolio.theme.theme-creator': 0.0.1(@mui/material@5.15.14)
       react: 18.2.0
+    transitivePeerDependencies:
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
     dev: false
 
   file:design/theme/light-theme(@mui/material@5.11.0)(react@18.2.0):
@@ -29733,10 +29541,17 @@ packages:
       '@mui/material': ^5.11.11
       react: ^18.2.0
     dependencies:
+      '@cohen-codes/design.theme.base-theme': file:design/theme/base-theme(@mui/material@5.11.0)
+      '@cohen-codes/design.theme.theme-creator': file:design/theme/theme-creator(@mui/material@5.11.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.base-theme': 0.0.3(@mui/material@5.11.0)
       '@nitsan770/portfolio.theme.theme-creator': 0.0.1(@mui/material@5.11.0)
       react: 18.2.0
+    transitivePeerDependencies:
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
     dev: false
 
   file:design/theme/light-theme(@mui/material@5.15.14)(react@18.2.0):
@@ -29747,10 +29562,17 @@ packages:
       '@mui/material': ^5.11.11
       react: ^18.2.0
     dependencies:
+      '@cohen-codes/design.theme.base-theme': file:design/theme/base-theme(@mui/material@5.15.14)
+      '@cohen-codes/design.theme.theme-creator': file:design/theme/theme-creator(@mui/material@5.15.14)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.base-theme': 0.0.3(@mui/material@5.15.14)
       '@nitsan770/portfolio.theme.theme-creator': 0.0.1(@mui/material@5.15.14)
       react: 18.2.0
+    transitivePeerDependencies:
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
     dev: false
 
   file:design/theme/theme-creator(@mui/material@5.11.0):
@@ -29784,6 +29606,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.theme.light-theme': file:design/theme/light-theme(@mui/material@5.11.0)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.light-theme': 0.0.3(@mui/material@5.11.0)(react@18.2.0)
@@ -29813,6 +29636,7 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.theme.light-theme': file:design/theme/light-theme(@mui/material@5.15.14)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
       '@nitsan770/portfolio.theme.light-theme': 0.0.3(@mui/material@5.15.14)(react@18.2.0)
@@ -29842,6 +29666,8 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.theme.light-theme': file:design/theme/light-theme(@mui/material@5.11.0)(react@18.2.0)
+      '@cohen-codes/design.theme.theme-provider': file:design/theme/theme-provider(@mui/material@5.11.0)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
       '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
@@ -29872,6 +29698,8 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.21.0
       '@babel/runtime': 7.20.13
+      '@cohen-codes/design.theme.light-theme': file:design/theme/light-theme(@mui/material@5.15.14)(react@18.2.0)
+      '@cohen-codes/design.theme.theme-provider': file:design/theme/theme-provider(@mui/material@5.15.14)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)
       '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
@@ -30001,6 +29829,76 @@ packages:
       '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
       '@babel/core': 7.20.12
       '@babel/runtime': 7.20.13
+      '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
+      '@mdx-js/react': 1.6.22(react@18.2.0)
+      '@mui/icons-material': 5.11.0(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
+      '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.15.14)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@mui/material': 5.15.14(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
+      formik: 2.2.9(react@18.2.0)
+      graphql: 16.6.0
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
+      subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
+      yup: 1.0.0
+    transitivePeerDependencies:
+      - '@types/react'
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
+    dev: false
+
+  file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0):
+    resolution: {directory: design/widgets/text-icon, type: directory}
+    id: file:design/widgets/text-icon
+    name: '@cohen-codes/design.widgets.text-icon'
+    peerDependencies:
+      '@mui/icons-material': ^5.11.0
+      '@mui/material': ^5.11.0
+      react: ^18.0.0
+    dependencies:
+      '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
+      '@babel/core': 7.20.12
+      '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
+      '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
+      '@mdx-js/react': 1.6.22(react@18.2.0)
+      '@mui/icons-material': 5.11.0(@mui/material@5.11.0)(@types/react@18.2.74)(react@18.2.0)
+      '@mui/lab': 5.0.0-alpha.117(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@mui/material@5.11.0)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@mui/material': 5.11.0(@emotion/react@11.10.5)(@emotion/styled@11.10.5)(@types/react@18.2.74)(react-dom@18.2.0)(react@18.2.0)
+      '@teambit/mdx.ui.mdx-scope-context': 0.0.496(react-dom@18.2.0)(react@18.2.0)
+      formik: 2.2.9(react@18.2.0)
+      graphql: 16.6.0
+      react: 18.2.0
+      react-dom: 18.2.0(react@18.2.0)
+      react-router-dom: 6.0.2(react-dom@18.2.0)(react@18.2.0)
+      subscriptions-transport-ws: 0.11.0(graphql@16.6.0)
+      yup: 1.0.0
+    transitivePeerDependencies:
+      - '@types/react'
+      - bufferutil
+      - graphql-ws
+      - supports-color
+      - utf-8-validate
+    dev: false
+
+  file:design/widgets/text-icon(@mui/icons-material@5.11.0)(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0):
+    resolution: {directory: design/widgets/text-icon, type: directory}
+    id: file:design/widgets/text-icon
+    name: '@cohen-codes/design.widgets.text-icon'
+    peerDependencies:
+      '@mui/icons-material': ^5.11.0
+      '@mui/material': ^5.11.0
+      react: ^18.0.0
+    dependencies:
+      '@apollo/client': 3.7.7(graphql@16.6.0)(react-dom@18.2.0)(react@18.2.0)(subscriptions-transport-ws@0.11.0)
+      '@babel/core': 7.20.12
+      '@babel/runtime': 7.20.13
+      '@cohen-codes/design.typography.typography': file:design/typography/typography(@mui/material@5.15.14)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/react': 11.10.5(@babel/core@7.20.12)(@types/react@18.2.74)(react@18.2.0)
       '@emotion/styled': 11.10.5(@babel/core@7.20.12)(@emotion/react@11.10.5)(@types/react@18.2.74)(react@18.2.0)
       '@mdx-js/react': 1.6.22(react@18.2.0)

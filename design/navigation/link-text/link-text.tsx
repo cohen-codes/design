@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Link } from '@nitsan770/portfolio.navigation.link';
+import { Link } from '@cohen-codes/design.navigation.link';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
-import { TextIcon } from '@nitsan770/portfolio.widgets.text-icon';
+import { TextIcon } from '@cohen-codes/design.widgets.text-icon';
 import { useTheme } from '@mui/material';
 
 export type LinkTextProps = {

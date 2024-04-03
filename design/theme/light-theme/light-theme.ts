@@ -1,6 +1,6 @@
 import { alpha, Theme, ThemeOptions } from '@mui/material';
-import { themeCreator } from '@nitsan770/portfolio.theme.theme-creator';
-import { baseTheme } from '@nitsan770/portfolio.theme.base-theme';
+import { themeCreator } from '@cohen-codes/design.theme.theme-creator';
+import { baseTheme } from '@cohen-codes/design.theme.base-theme';
 
 /**
  * Function that returns a configured light theme
