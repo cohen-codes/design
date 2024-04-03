@@ -421,10 +421,6 @@
         "mainFile": "index.ts",
         "rootDir": "design/navigation/footer",
         "config": {
-            "teambit.envs/envs": {
-                "env": "showoff.dev/envs/react-with-mui"
-            },
-            "showoff.dev/envs/react-with-mui@0.0.32": {},
             "teambit.dependencies/dependency-resolver": {},
             "teambit.harmony/application": {},
             "teambit.component/dev-files": {},
@@ -438,6 +434,10 @@
                     "name": "navigation/footer",
                     "version": "0.0.47"
                 }
+            },
+            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
+            "teambit.envs/envs": {
+                "env": "nitsan770.portfolio/envs/react-with-mui"
             }
         }
     },
@@ -449,10 +449,6 @@
         "mainFile": "index.ts",
         "rootDir": "design/navigation/header",
         "config": {
-            "teambit.envs/envs": {
-                "env": "showoff.dev/envs/react-with-mui"
-            },
-            "showoff.dev/envs/react-with-mui@0.0.32": {},
             "teambit.dependencies/dependency-resolver": {},
             "teambit.harmony/application": {},
             "teambit.component/dev-files": {},
@@ -466,6 +462,10 @@
                     "name": "navigation/header",
                     "version": "0.0.46"
                 }
+            },
+            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
+            "teambit.envs/envs": {
+                "env": "nitsan770.portfolio/envs/react-with-mui"
             }
         }
     },
@@ -767,10 +767,6 @@
         "mainFile": "index.ts",
         "rootDir": "design/widgets/text-icon",
         "config": {
-            "teambit.envs/envs": {
-                "env": "showoff.dev/envs/react-with-mui"
-            },
-            "showoff.dev/envs/react-with-mui@0.0.32": {},
             "teambit.dependencies/dependency-resolver": {},
             "teambit.harmony/application": {},
             "teambit.component/dev-files": {},
@@ -784,6 +780,10 @@
                     "name": "widgets/text-icon",
                     "version": "0.0.41"
                 }
+            },
+            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
+            "teambit.envs/envs": {
+                "env": "nitsan770.portfolio/envs/react-with-mui"
             }
         }
     },
