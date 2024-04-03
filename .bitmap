@@ -12,753 +12,191 @@
     "brand/logo": {
         "name": "brand/logo",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/brand/logo",
-        "config": {
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "brand/logo",
-                    "version": "0.0.6"
-                }
-            },
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/brand/logo"
     },
     "elements/card": {
         "name": "elements/card",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/elements/card",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "elements/card",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/elements/card"
     },
     "elements/chip": {
         "name": "elements/chip",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/elements/chip",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "elements/chip",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/elements/chip"
     },
     "elements/zoom-in-card-media": {
         "name": "elements/zoom-in-card-media",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/elements/zoom-in-card-media",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "elements/zoom-in-card-media",
-                    "version": "0.0.4"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/elements/zoom-in-card-media"
     },
     "fonts/ciruclar-xx": {
         "name": "fonts/ciruclar-xx",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/fonts/ciruclar-xx",
-        "config": {
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            },
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.harmony/node": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "showoff.design",
-                    "name": "fonts/ciruclar-xx",
-                    "version": "0.0.7"
-                }
-            }
-        }
+        "rootDir": "design/fonts/ciruclar-xx"
     },
     "icons/bit": {
         "name": "icons/bit",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/icons/bit",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "icons/bit",
-                    "version": "0.0.4"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/icons/bit"
     },
     "icons/github": {
         "name": "icons/github",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/icons/github",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "icons/github",
-                    "version": "0.0.4"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/icons/github"
     },
     "icons/link-icon": {
         "name": "icons/link-icon",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/icons/link-icon",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "icons/link-icon",
-                    "version": "0.0.4"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/icons/link-icon"
     },
     "inputs/button": {
         "name": "inputs/button",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/inputs/button",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "inputs/button",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/inputs/button"
     },
     "inputs/icon-text-button": {
         "name": "inputs/icon-text-button",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/inputs/icon-text-button",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.component/dev-files": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "inputs/icon-text-button",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/inputs/icon-text-button"
     },
     "inputs/text-field": {
         "name": "inputs/text-field",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/inputs/text-field",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "inputs/text-field",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/inputs/text-field"
     },
     "inputs/toggle-button": {
         "name": "inputs/toggle-button",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/inputs/toggle-button",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "inputs/toggle-button",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/inputs/toggle-button"
     },
     "layouts/margin": {
         "name": "layouts/margin",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/layouts/margin",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "layouts/margin",
-                    "version": "0.0.4"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/layouts/margin"
     },
     "navigation/breadcrumb": {
         "name": "navigation/breadcrumb",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/navigation/breadcrumb",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "navigation/breadcrumb",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/navigation/breadcrumb"
     },
     "navigation/footer": {
         "name": "navigation/footer",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/navigation/footer",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "showoff.design",
-                    "name": "navigation/footer",
-                    "version": "0.0.47"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            }
-        }
+        "rootDir": "design/navigation/footer"
     },
     "navigation/header": {
         "name": "navigation/header",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/navigation/header",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "showoff.design",
-                    "name": "navigation/header",
-                    "version": "0.0.46"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            }
-        }
+        "rootDir": "design/navigation/header"
     },
     "navigation/link": {
         "name": "navigation/link",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/navigation/link",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "navigation/link",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/navigation/link"
     },
     "navigation/link-text": {
         "name": "navigation/link-text",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/navigation/link-text",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "navigation/link-text",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/navigation/link-text"
     },
     "theme/base-theme": {
         "name": "theme/base-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/base-theme",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/base-theme",
-                    "version": "0.0.3"
-                }
-            },
-            "nitsan770.portfolio/envs/react-18@0.0.2": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-18"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/base-theme"
     },
     "theme/dark-theme": {
         "name": "theme/dark-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/dark-theme",
-        "config": {
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            },
-            "teambit.harmony/node": {},
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/dark-theme",
-                    "version": "0.0.3"
-                }
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/dark-theme"
     },
     "theme/light-theme": {
         "name": "theme/light-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/light-theme",
-        "config": {
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            },
-            "teambit.harmony/node": {},
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/light-theme",
-                    "version": "0.0.3"
-                }
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/light-theme"
     },
     "theme/theme-creator": {
         "name": "theme/theme-creator",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/theme-creator",
-        "config": {
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            },
-            "teambit.harmony/node": {},
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/theme-creator",
-                    "version": "0.0.1"
-                }
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/theme-creator"
     },
     "theme/theme-provider": {
         "name": "theme/theme-provider",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/theme-provider",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/theme-provider",
-                    "version": "0.0.3"
-                }
-            },
-            "nitsan770.portfolio/envs/react-18@0.0.2": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-18"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/theme-provider"
     },
     "theme/theme-toggle": {
         "name": "theme/theme-toggle",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/theme/theme-toggle",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "theme/theme-toggle",
-                    "version": "0.0.3"
-                }
-            },
-            "nitsan770.portfolio/envs/react-18@0.0.2": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-18"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/theme/theme-toggle"
     },
     "typography/heading": {
         "name": "typography/heading",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/typography/heading",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "typography/heading",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/typography/heading"
     },
     "typography/typography": {
         "name": "typography/typography",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/typography/typography",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "nitsan770.portfolio",
-                    "name": "typography/typography",
-                    "version": "0.0.5"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            },
-            "teambit.semantics/schema": {}
-        }
+        "rootDir": "design/typography/typography"
     },
     "widgets/text-icon": {
         "name": "widgets/text-icon",
         "scope": "cohen-codes.design",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "design/widgets/text-icon",
-        "config": {
-            "teambit.dependencies/dependency-resolver": {},
-            "teambit.harmony/application": {},
-            "teambit.component/dev-files": {},
-            "teambit.compositions/compositions": {},
-            "teambit.docs/docs": {},
-            "teambit.preview/preview": {},
-            "teambit.pipelines/builder": {},
-            "teambit.component/forking": {
-                "forkedFrom": {
-                    "scope": "showoff.design",
-                    "name": "widgets/text-icon",
-                    "version": "0.0.41"
-                }
-            },
-            "nitsan770.portfolio/envs/react-with-mui@0.0.6": {},
-            "teambit.envs/envs": {
-                "env": "nitsan770.portfolio/envs/react-with-mui"
-            }
-        }
+        "rootDir": "design/widgets/text-icon"
     },
     "$schema-version": "17.0.0"
 }
