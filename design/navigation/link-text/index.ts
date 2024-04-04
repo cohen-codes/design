@@ -1,2 +1,2 @@
-export { LinkText } from './link-text';
-export type { LinkTextProps } from './link-text';
+export { LinkText } from './link-text.js';
+export type { LinkTextProps } from './link-text.js';

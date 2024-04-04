@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from '@cohen-codes/design.navigation.link';
-import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward.js';
 import { TextIcon } from '@cohen-codes/design.widgets.text-icon';
 import { useTheme } from '@mui/material';
 
@@ -57,6 +57,7 @@ export function LinkText({
     >
       <TextIcon
         icon={
+          // @ts-ignore
           <ArrowForwardIcon
             fontSize={iconSize}
             sx={{
