@@ -1,6 +1,5 @@
-import React from 'react';
 import { render } from '@testing-library/react';
-import { SampleFooter } from './footer.composition';
+import { SampleFooter } from './footer.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<SampleFooter />);

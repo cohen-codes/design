@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import { SampleHeader } from './header.composition';
+import { SampleHeader } from './header.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<SampleHeader />);

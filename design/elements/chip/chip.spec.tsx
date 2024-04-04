@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import { SampleChip } from './chip.composition';
+import { SampleChip } from './chip.composition.js';
 
 it('should render with correct text', () => {
   const { getByText } = render(<SampleChip />);

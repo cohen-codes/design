@@ -1,6 +1,5 @@
-import React from 'react';
 import { render } from '@testing-library/react';
-import { SampleToggleButton } from './toggle-button.composition';
+import { SampleToggleButton } from './toggle-button.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<SampleToggleButton />);

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TextField } from './text-field';
+import { TextField } from './text-field.js';
 
 export const BasicTextField = () => {
   const [value, setValue] = useState<string>('');

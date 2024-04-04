@@ -1,2 +1,2 @@
-export { Bit } from './bit';
-export type { BitProps } from './bit';
+export { Bit } from './bit.js';
+export type { BitProps } from './bit.js;

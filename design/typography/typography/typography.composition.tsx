@@ -1,7 +1,3 @@
-import React from 'react';
-import { Typography } from './typography';
+import { Typography } from './typography.js';
 
-export const BasicTypography = () =>
-(
-  <Typography>hello world!</Typography>
-);
+export const BasicTypography = () => <Typography>hello world!</Typography>;

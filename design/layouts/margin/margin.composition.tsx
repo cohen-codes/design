@@ -1,29 +1,19 @@
-import React from 'react';
-import { Margin, MarginType } from './margin';
+import { Margin, MarginType } from './margin.js';
 
 export const SmallMargin = () => (
-  <Margin
-    mb={MarginType.SMALL}
-    mt={MarginType.SMALL}
-  >
+  <Margin mb={MarginType.SMALL} mt={MarginType.SMALL}>
     Hello World!
   </Margin>
 );
 
 export const MediumMargin = () => (
-  <Margin
-    mb={MarginType.MEDIUM}
-    mt={MarginType.MEDIUM}
-  >
+  <Margin mb={MarginType.MEDIUM} mt={MarginType.MEDIUM}>
     Hello World!
   </Margin>
 );
 
 export const LargeMargin = () => (
-  <Margin
-    mb={MarginType.LARGE}
-    mt={MarginType.LARGE}
-  >
+  <Margin mb={MarginType.LARGE} mt={MarginType.LARGE}>
     Hello World!
   </Margin>
 );

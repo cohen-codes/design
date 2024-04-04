@@ -1,8 +1,5 @@
-import React from 'react';
-import { Github } from './github';
+import { Github } from './github.js';
 
 export const SampleGitHub = () => {
-  return (
-    <Github>hello world!</Github>
-  );
-}
+  return <Github>hello world!</Github>;
+};

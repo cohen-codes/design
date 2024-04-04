@@ -1,8 +1,5 @@
-import React from 'react';
-import { Bit } from './bit';
+import { Bit } from './bit.js';
 
 export const SampleBit = () => {
-  return (
-    <Bit />
-  );
-}
+  return <Bit />;
+};

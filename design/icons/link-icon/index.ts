@@ -1,2 +1,2 @@
-export { LinkIcon } from './link-icon';
-export type { LinkIconProps } from './link-icon';
+export { LinkIcon } from './link-icon.js';
+export type { LinkIconProps } from './link-icon.js';

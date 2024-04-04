@@ -1,11 +1,7 @@
-import React from 'react';
-import { GithubSvg, GithubSvgProps } from './github.svg';
+import { GithubSvg, GithubSvgProps } from './github.svg.js';
 
-export type GithubProps = {
-} & GithubSvgProps;
+export type GithubProps = {} & GithubSvgProps;
 
 export function Github(props: GithubProps) {
-  return (
-    <GithubSvg {...props} />
-  );
+  return <GithubSvg {...props} />;
 }

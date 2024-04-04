@@ -1,2 +1,2 @@
-export { Github } from './github';
-export type { GithubProps } from './github';
+export { Github } from './github.js';
+export type { GithubProps } from './github.js';

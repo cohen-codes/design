@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { MemoryRouter } from 'react-router-dom';
 import { Logo } from '@cohen-codes/design.brand.logo';
 import { ThemeToggle } from '@cohen-codes/design.theme.theme-toggle';
-import { Header } from './header';
+import { Header } from './header.js';
 
 export const SampleHeader = () => {
   const [isDark, setIsDark] = useState(false);

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Typography } from '@cohen-codes/design.typography.typography';
-import { ToggleButton } from './toggle-button';
+import { ToggleButton } from './toggle-button.js';
 
 export const SampleToggleButton = () => {
   return (

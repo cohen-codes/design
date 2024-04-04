@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from './card';
+import { Card } from './card.js';
 
 export const CardWithNoSubtitle = () => {
   return (
@@ -9,7 +9,7 @@ export const CardWithNoSubtitle = () => {
       bannerImage="https://images.unsplash.com/photo-1669798158874-9c05aa89d71b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     />
   );
-}
+};
 
 export const CardWithNoSubtitleNoTags = () => {
   return (
@@ -18,7 +18,7 @@ export const CardWithNoSubtitleNoTags = () => {
       bannerImage="https://images.unsplash.com/photo-1669798158874-9c05aa89d71b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     />
   );
-}
+};
 
 export const CompactCard = () => {
   return (
@@ -26,11 +26,11 @@ export const CompactCard = () => {
       title="Project Name"
       tags={['React', 'VSCode', 'Bit', 'Material-UI']}
       subtitle="This is a subtitle"
-      view='compact'
+      view="compact"
       bannerImage="https://images.unsplash.com/photo-1669798158874-9c05aa89d71b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     />
   );
-}
+};
 
 export const DetailedCard = () => {
   return (
@@ -38,8 +38,8 @@ export const DetailedCard = () => {
       title="Project Name"
       tags={['React', 'VSCode', 'Bit', 'Material-UI']}
       subtitle="This is a subtitle"
-      view='detailed'
+      view="detailed"
       bannerImage="https://images.unsplash.com/photo-1669798158874-9c05aa89d71b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     />
   );
-}
+};
