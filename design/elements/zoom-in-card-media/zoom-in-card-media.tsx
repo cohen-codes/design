@@ -1,4 +1,3 @@
-import React from 'react';
 import { CardMedia } from '@mui/material';
 
 type StyleOperator = 'px' | 'rem' | 'em' | 'vw' | 'vh' | '%';
@@ -20,7 +19,7 @@ export type ZoomInCardMediaProps = {
    * the height of the media (in pixels)
    * @default 300
    * @optional
-  */
+   */
   height?: number;
 
   /**
@@ -34,7 +33,13 @@ export type ZoomInCardMediaProps = {
   heightOperator?: StyleOperator;
 };
 
-export function ZoomInCardMedia({ media, width = 300, height = 500, widthOperator = 'px', heightOperator = 'px' }: ZoomInCardMediaProps) {
+export function ZoomInCardMedia({
+  media,
+  width = 300,
+  height = 500,
+  widthOperator = 'px',
+  heightOperator = 'px',
+}: ZoomInCardMediaProps) {
   return (
     <div
       style={{
@@ -44,11 +49,7 @@ export function ZoomInCardMedia({ media, width = 300, height = 500, widthOperato
         borderRadius: '8px',
       }}
     >
-      <CardMedia
-        component="img"
-        image={media}
-        sx={{ p: 0, m: 0 }}
-      />
+      <CardMedia component="img" image={media} sx={{ p: 0, m: 0 }} />
     </div>
   );
 }

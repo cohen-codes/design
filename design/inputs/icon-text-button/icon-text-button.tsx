@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { alpha, Box, BoxProps } from '@mui/material';
 import { Typography } from '@cohen-codes/design.typography.typography';
 

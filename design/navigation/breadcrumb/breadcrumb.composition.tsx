@@ -1,11 +1,10 @@
-import React from 'react';
-import { Breadcrumb } from './breadcrumb';
+import { Breadcrumb } from './breadcrumb.js';
 
 export const SampleBreadcrumb = () => {
   return (
     <Breadcrumb
       typographyProps={{
-        fontSize: 30
+        fontSize: 30,
       }}
       crumbs={[
         { crumb: 'Home', link: '/' },
@@ -14,5 +13,4 @@ export const SampleBreadcrumb = () => {
       ]}
     />
   );
-}
-
+};

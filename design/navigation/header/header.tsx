@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { AppBar, Container, Box, Toolbar } from '@mui/material';
 import { Typography } from '@cohen-codes/design.typography.typography';
 import { Link } from '@cohen-codes/design.navigation.link';

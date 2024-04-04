@@ -1,4 +1,4 @@
-import React, { useMemo, Fragment } from 'react';
+import { useMemo, Fragment } from 'react';
 import { Heading } from '@cohen-codes/design.typography.heading';
 import { TypographyProps, Box, Link } from '@mui/material';
 

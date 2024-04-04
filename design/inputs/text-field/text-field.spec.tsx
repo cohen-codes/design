@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
-import { BasicTextField } from './text-field.composition';
+import { BasicTextField } from './text-field.composition.js';
 
 it('should render a text field with empty text', () => {
   const { getByLabelText } = render(<BasicTextField />);

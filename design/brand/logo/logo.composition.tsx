@@ -1,6 +1,4 @@
 import React from 'react';
-import { Logo } from './logo';
+import { Logo } from './logo.js';
 
-export const PortfolioLogo = () => (
-  <Logo />
-);
+export const PortfolioLogo = () => <Logo />;

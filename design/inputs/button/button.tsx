@@ -1,5 +1,7 @@
-import React from 'react';
-import { LoadingButton as MUIButton, LoadingButtonProps as MUIButtonProps } from '@mui/lab';
+import {
+  LoadingButton as MUIButton,
+  LoadingButtonProps as MUIButtonProps,
+} from '@mui/lab';
 
 export type ButtonProps = {
   /**
@@ -9,11 +11,5 @@ export type ButtonProps = {
 } & MUIButtonProps;
 
 export function Button({ value, ...rest }: ButtonProps) {
-  return (
-    <MUIButton
-      {...rest}
-    >
-      {value}
-    </MUIButton>
-  );
+  return <MUIButton {...rest}>{value}</MUIButton>;
 }

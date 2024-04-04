@@ -1,10 +1,5 @@
-import React from 'react';
-import { Heading } from './heading';
+import { Heading } from './heading.js';
 
 export const BasicHeading = () => {
-  return (
-    <Heading
-      value='Testing Typography'
-    />
-  );
-}
+  return <Heading value="Testing Typography" />;
+};

@@ -1,6 +1,5 @@
-import React from 'react';
 import { render } from '@testing-library/react';
-import { SampleBreadcrumb } from './breadcrumb.composition';
+import { SampleBreadcrumb } from './breadcrumb.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<SampleBreadcrumb />);
@@ -8,10 +7,8 @@ it('should render with the correct text', () => {
   expect(rendered).toBeTruthy();
 });
 
-
 it('should render with the correct backticks', () => {
   const { getAllByText } = render(<SampleBreadcrumb />);
   const rendered = getAllByText('/');
   expect(rendered.length).toBe(3);
 });
-

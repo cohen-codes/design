@@ -1,11 +1,10 @@
-import React from 'react';
 import { Chip as MuiChip } from '@mui/material';
 
 export type ChipProps = {
   /**
    * The content of the chip.
    */
-  content: string
+  content: string;
 };
 
 export function Chip({ content }: ChipProps) {
@@ -14,13 +13,13 @@ export function Chip({ content }: ChipProps) {
       label={content}
       size="medium"
       sx={{
-        "& .MuiChip-root": {
-          borderRadius: '6px'
+        '& .MuiChip-root': {
+          borderRadius: '6px',
         },
-        "& .MuiChip-label": {
+        '& .MuiChip-label': {
           px: 0,
-          py: '8px'
-        }
+          py: '8px',
+        },
       }}
     />
   );

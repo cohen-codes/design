@@ -1,6 +1,6 @@
+import { ReactNode } from 'react';
 import { Typography } from '@cohen-codes/design.typography.typography';
 import { Box } from '@mui/material';
-import React, { ReactNode } from 'react';
 
 export type TextIconProps = {
   /**

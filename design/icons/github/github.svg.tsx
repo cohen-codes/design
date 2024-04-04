@@ -1,5 +1,3 @@
-import React from "react";
-
 export type GithubSvgProps = {} & React.SVGProps<SVGSVGElement>;
 
 export const GithubSvg = (props: GithubSvgProps) => (

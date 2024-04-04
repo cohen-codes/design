@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import {
   Link as ReactRouterLink,
   LinkProps as ReactRouterLinkProps,

@@ -1,12 +1,8 @@
-import React from 'react';
 import { MemoryRouter } from 'react-router-dom';
-import { Link } from './link';
+import { Link } from './link.js';
 
 export const BasicLink = () => (
   <MemoryRouter>
-    <Link
-      to="/"
-    >hello world!
-    </Link>
+    <Link to="/">hello world!</Link>
   </MemoryRouter>
 );

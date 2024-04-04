@@ -1,6 +1,5 @@
-import React from 'react';
 import { render } from '@testing-library/react';
-import { BasicHeading } from './heading.composition';
+import { BasicHeading } from './heading.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<BasicHeading />);

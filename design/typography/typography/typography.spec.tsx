@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import { BasicTypography } from './typography.composition';
+import { BasicTypography } from './typography.composition.js';
 
 it('should render with the correct text', () => {
   const { getByText } = render(<BasicTypography />);

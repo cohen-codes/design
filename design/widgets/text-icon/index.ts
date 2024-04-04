@@ -1,2 +1,2 @@
-export { TextIcon } from './text-icon';
-export type { TextIconProps } from './text-icon';
+export { TextIcon } from './text-icon.js';
+export type { TextIconProps } from './text-icon.js';

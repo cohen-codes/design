@@ -1,10 +1,5 @@
-import React from 'react';
-import { Button } from './button';
+import { Button } from './button.js';
 
 export const SampleButton = () => {
-  return (
-    <Button
-      variant="contained"
-      value="Click Me!" />
-  );
-}
+  return <Button variant="contained" value="Click Me!" />;
+};

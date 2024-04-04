@@ -1,2 +1,2 @@
-export { Heading } from './heading';
-export type { HeadingProps } from './heading';
+export { Heading } from './heading.js';
+export type { HeadingProps } from './heading.js';

@@ -1,8 +1,5 @@
-import React from 'react';
-import { LinkIcon } from './link-icon';
+import { LinkIcon } from './link-icon.js';
 
 export const BasicLinkIcon = () => {
-  return (
-    <LinkIcon>hello world!</LinkIcon>
-  );
-}
+  return <LinkIcon>hello world!</LinkIcon>;
+};
