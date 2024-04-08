@@ -1,1 +1,1 @@
-export { baseTheme } from './base-theme';
+export { baseTheme } from './base-theme.js';

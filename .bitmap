@@ -12,189 +12,189 @@
     "brand/logo": {
         "name": "brand/logo",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/brand/logo"
     },
     "elements/card": {
         "name": "elements/card",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/elements/card"
     },
     "elements/chip": {
         "name": "elements/chip",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/elements/chip"
     },
     "elements/zoom-in-card-media": {
         "name": "elements/zoom-in-card-media",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/elements/zoom-in-card-media"
     },
     "fonts/ciruclar-xx": {
         "name": "fonts/ciruclar-xx",
         "scope": "cohen-codes.design",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "design/fonts/ciruclar-xx"
     },
     "icons/bit": {
         "name": "icons/bit",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/icons/bit"
     },
     "icons/github": {
         "name": "icons/github",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/icons/github"
     },
     "icons/link-icon": {
         "name": "icons/link-icon",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/icons/link-icon"
     },
     "inputs/button": {
         "name": "inputs/button",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/button"
     },
     "inputs/icon-text-button": {
         "name": "inputs/icon-text-button",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/icon-text-button"
     },
     "inputs/text-field": {
         "name": "inputs/text-field",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/text-field"
     },
     "inputs/toggle-button": {
         "name": "inputs/toggle-button",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/inputs/toggle-button"
     },
     "layouts/margin": {
         "name": "layouts/margin",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/layouts/margin"
     },
     "navigation/breadcrumb": {
         "name": "navigation/breadcrumb",
         "scope": "cohen-codes.design",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/breadcrumb"
     },
     "navigation/footer": {
         "name": "navigation/footer",
         "scope": "cohen-codes.design",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/footer"
     },
     "navigation/header": {
         "name": "navigation/header",
         "scope": "cohen-codes.design",
-        "version": "0.0.4",
+        "version": "0.0.6",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/header"
     },
     "navigation/link": {
         "name": "navigation/link",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link"
     },
     "navigation/link-text": {
         "name": "navigation/link-text",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/navigation/link-text"
     },
     "theme/base-theme": {
         "name": "theme/base-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/theme/base-theme"
     },
     "theme/dark-theme": {
         "name": "theme/dark-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/theme/dark-theme"
     },
     "theme/light-theme": {
         "name": "theme/light-theme",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/theme/light-theme"
     },
     "theme/theme-creator": {
         "name": "theme/theme-creator",
         "scope": "cohen-codes.design",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-creator"
     },
     "theme/theme-provider": {
         "name": "theme/theme-provider",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-provider"
     },
     "theme/theme-toggle": {
         "name": "theme/theme-toggle",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/theme/theme-toggle"
     },
     "typography/heading": {
         "name": "typography/heading",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/typography/heading"
     },
     "typography/typography": {
         "name": "typography/typography",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "mainFile": "index.ts",
         "rootDir": "design/typography/typography"
     },
     "widgets/text-icon": {
         "name": "widgets/text-icon",
         "scope": "cohen-codes.design",
-        "version": "0.0.3",
+        "version": "0.0.5",
         "mainFile": "index.ts",
         "rootDir": "design/widgets/text-icon"
     },
